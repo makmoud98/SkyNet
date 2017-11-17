@@ -1,2 +1,1 @@
-SkyNet
-======
+mod forked from tealnerd. all i added was an email alert system that would allow me to wake up from sleep to kill noobs entering my base. sloppy (but functional) code because it was written in one night. mod requires javax.mail library (just google it)
